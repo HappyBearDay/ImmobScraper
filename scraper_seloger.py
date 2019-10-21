@@ -36,7 +36,6 @@ class SeLoger_Scraper(Scraper):
 
         return tmp_list_appt
 
-
     def get_nb_pages(self, json_data):
         self.logger.debug(json_data['pagination'])
 
