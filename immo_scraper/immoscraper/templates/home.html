@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+
+    {% block content %}
+    <div id="data"></div>
+        {% if announces %}
+        {{announces}}
+        {% else %}
+        Nothing
+        {% endif %}
+
+        
+
+    {% endblock content %}
