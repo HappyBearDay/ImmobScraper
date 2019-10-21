@@ -1,2 +1,2 @@
 # ImmobScraper
-Web scraper for Seloger, leboncoin, etc. - Educational purposes only
+Scraper for SeLoger, LeBonCoin, ... and cie for Real Estate finding
