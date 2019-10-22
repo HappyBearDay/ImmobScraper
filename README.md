@@ -3,6 +3,14 @@
 Scraper for SeLoger, LeBonCoin, ... and cie for Real Estate finding
 
 
+
+/datahandling : Notebook app
+
+/immo_scraper : Flask web app
+
+/lib : scraper library
+
+
 #Setup
 export FLASK_APP=./run.py 
 
