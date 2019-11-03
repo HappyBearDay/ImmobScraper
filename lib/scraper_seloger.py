@@ -13,7 +13,6 @@ from Parameters import url_seloger, page_add_seloger
 
 
 class SeLoger_Scraper(Scraper):
-
     def find_json_in_scripts(self, script_list):
         for script_item in script_list:
             if 'initialData' in script_item.text:
